@@ -1,0 +1,15 @@
+.container{
+    border: 7px solid black;
+    width: 500px;
+    aspect-ratio: 1;
+    background-color: blue;
+    color: white;
+    margin: 100px 500px;
+    border-radius: 30px;
+}
+button{
+    margin-top: 10px;
+}
+h2{
+    color: yellow;
+}
